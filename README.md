@@ -10,7 +10,7 @@ The next example the interpreter is given is to find out whether B, which states
 
 
 # Analysing example 2;
-In example 2 i used the operators 'and', 'or' and 'not' to determine whether the expressions generated where either true or false. In this example i used ChatGPT to create the 3 expressions while i personally coded the parameters X and y. Here is what they had to show:
+In example 2 i used the operators 'and', 'or' and 'not' to determine whether the expressions generated where either true or false. In this example i used ChatGPT to create the 3 expressions while i personally coded the parameters X and y.
 
  # The and operator:
   In this expression the interpreter is trying to find out whether X is greater than 0 and whether Y is greater than 0. Upon printing the result it gives a single True value, why is this? Well the 'and' operator gives a True value if both X and y are True and False otherwise. It combines both into one and gives a single answer on both.
